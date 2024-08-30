@@ -9,4 +9,4 @@ This repository is split into labs and final project files. There are multiple v
 
 ## Example Video 📸
 Here is an example of how the algorithm performed on one leg of the full grand prix course.
-[![RACECAR_Media](/Users/shreyagarwal/Downloads/racecar_image.png)](https://drive.google.com/file/d/1ke84UlLfDu3-S2JicNzt3PgOKgVBiwxV/view?usp=sharing)
+[HI](https://drive.google.com/file/d/1ke84UlLfDu3-S2JicNzt3PgOKgVBiwxV/view?usp=sharing)
