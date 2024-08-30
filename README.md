@@ -7,7 +7,6 @@ Using a simulated car in Unity, this algorithm uses the different sensors on the
 ## File Structure 📁
 This repository is split into labs and final project files. There are multiple versions of some of the labs, as that includes optimizations after initially completing the labs.
 
-## Pictures and Videos 📸
-Here are some pictures and videos to exhibit what the algorithms can do.
-
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+## Example Video 📸
+Here is an example of how the algorithm performed on one leg of the full grand prix course.
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/myprofile](https://drive.google.com/file/d/1ke84UlLfDu3-S2JicNzt3PgOKgVBiwxV/view?usp=sharing))
