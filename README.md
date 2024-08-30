@@ -8,4 +8,4 @@ Using a simulated car in Unity, this algorithm uses the different sensors on the
 This repository is split into labs and final project files. There are multiple versions of some of the labs, as that includes optimizations after initially completing the labs.
 
 ## Example Video 📸
-[Here is an example of how the algorithm performed on one leg of the full grand prix course.](https://drive.google.com/file/d/1ke84UlLfDu3-S2JicNzt3PgOKgVBiwxV/view?usp=sharing)
+[Here is an example of how the algorithm performed on one leg of the full grand prix course.](https://drive.google.com/file/d/1PG2PBISZ9NDC7A52-EH9OL_fgD85telG/view?usp=sharing)
