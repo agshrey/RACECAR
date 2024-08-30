@@ -9,4 +9,4 @@ This repository is split into labs and final project files. There are multiple v
 
 ## Example Video 📸
 Here is an example of how the algorithm performed on one leg of the full grand prix course.
-[![RACECAR_Media]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://drive.google.com/file/d/1PACi7qCc5AuHIdQlUTz6hwZCvqsDRgBG/view?usp=sharing))](https://drive.google.com/file/d/1ke84UlLfDu3-S2JicNzt3PgOKgVBiwxV/view?usp=sharing)
+[![RACECAR_Media](/Users/shreyagarwal/Downloads/racecar_image.png)](https://drive.google.com/file/d/1ke84UlLfDu3-S2JicNzt3PgOKgVBiwxV/view?usp=sharing)
